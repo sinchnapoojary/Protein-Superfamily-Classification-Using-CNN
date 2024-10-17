@@ -34,7 +34,7 @@ The model is built using Keras and consists of the following layers:
 
 ## Results
 
-The model achieves a Train Accuracy of approximately 92% and a Test Accuracy of approximately 60%.  
+The model achieves a Train Accuracy of approximately 93.71% and a Test Accuracy of approximately 61.79%.  
 A confusion matrix and classification report are generated to evaluate the predictions.
 
 ## Project Associates
