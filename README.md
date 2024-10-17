@@ -1,4 +1,4 @@
-# Protein Classification Using CNNs
+# Protein Superfamily Classification Using CNN
 
 This project focuses on classifying proteins into their respective superfamilies using a Convolutional Neural Network (CNN). The approach utilizes protein sequence data, and the model is trained to predict the classification based on the input sequences.
 
