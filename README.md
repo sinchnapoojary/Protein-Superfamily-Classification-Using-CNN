@@ -7,9 +7,9 @@ This project implements a CNN-based architecture for protein superfamily classif
 ## Dataset
 The project merges two datasets:
 
--*pdb_data_no_dups.csv*: Contains structural data of proteins.
--*pdb_data_seq.csv*: Contains sequence data of proteins.
--The datasets are merged on the structureId field, and only protein sequences with residue counts below 1200 are considered. The final dataset consists of 10 classes with the highest frequencies.
+- *pdb_data_no_dups.csv*: Contains structural data of proteins.
+- *pdb_data_seq.csv*: Contains sequence data of proteins.
+- The datasets are merged on the structureId field, and only protein sequences with residue counts below 1200 are considered. The final dataset consists of 10 classes with the highest frequencies.
 
 ## Model Architecture
 The model is built using Keras and consists of the following layers:
