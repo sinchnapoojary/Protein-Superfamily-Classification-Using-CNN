@@ -37,9 +37,8 @@ The model is built using Keras and consists of the following layers:
 The model achieves a Train Accuracy of approximately 93.71% and a Test Accuracy of approximately 61.79%.  
 A confusion matrix and classification report are generated to evaluate the predictions.
 
-## Project Associates
-
-- Shreeharsh Joshi
-- Shreyas C
-- Sinchana Poojary
-- Sreevalli R
+## Project Associates  
+1. [Shreeharsh Joshi](https://github.com/sharshj) 
+2. [Shreyas C](https://github.com/shrey1610) 
+3. [Sinchana Poojary](https://github.com/sinchnapoojary) 
+4. [Sreevalli R](https://github.com/sreevallireddy) 
